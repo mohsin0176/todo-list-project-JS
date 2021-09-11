@@ -1,2 +1,1 @@
-# todo-list-project-JS
-html css php javacsript based todo list..no database required..............
+# Todo List Project
